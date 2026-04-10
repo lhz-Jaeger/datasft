@@ -1,6 +1,6 @@
 {
-  "processed_nonempty_lines": 572396,
-  "batch_index": 980,
+  "processed_nonempty_lines": 584252,
+  "batch_index": 1340,
   "avg_scores_output_path": "train_avg_scores_bge_m3.jsonl",
   "status": "running"
 }
